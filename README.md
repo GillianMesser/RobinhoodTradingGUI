@@ -24,6 +24,6 @@ yfinance - https://pypi.org/project/yfinance/ - uses yahoo api's to pull histori
 
 numpy - https://numpy.org/ - used to prepare and analyze historical price data
 
-PyQt6 - link - used QT Creator/Designer to build an initial user interface, converted to .py file using pyuic6 and used pyqt6 library in python to make final adjustments and develop buttons
+PyQt6 - https://www.riverbankcomputing.com/static/Docs/PyQt6/ - used QT Creator/Designer to build an initial user interface, converted to .py file using pyuic6 and used pyqt6 library in python to make final adjustments and develop buttons
 
-sys, os, getpass, pickle, random - all provide general support to adjusting some of the API code to cooperate more easily with the user interface and to launch the user interface successfully. 
+sys, os, getpass, pickle, random - all provide general support to adjusting some of the API code to cooperate more easily with the user login/interface and to launch the user interface successfully. 
